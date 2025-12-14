@@ -1,4 +1,4 @@
-# 👨🏻‍💻 ALEX MIRANDA SPINDOLA
+# ALEX MIRANDA SPINDOLA
 
 **`Desenvolvedor Full Stack`**
 
