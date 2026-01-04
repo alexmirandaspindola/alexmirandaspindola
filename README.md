@@ -1,8 +1,8 @@
 # ALEX MIRANDA SPINDOLA
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack/Esp. em IA e Engenharia de Software`**
 
-Me chamo Alex Miranda spindola, tenho 23 anos e sou natural de Brasília. Concluí a graduação em Análise e Desenvolvimento de Sistemas em 2023, a pós-graduação em Inteligencia Artificial e Engenharia de Software, e o MBA em Gestão de Projetos em TI em 2024. Atualmente, estou cursando Ciência da Computação na Estácio.
+Me chamo Alex Miranda spindola, tenho 23 anos e sou natural de Brasília. Concluí a Graduação em Análise e Desenvolvimento de Sistemas em 2023, a pós-graduação em Inteligência Artificial e Engenharia de Software, e o MBA em Gestão de Projetos em TI em 2024. Atualmente, estou cursando Ciência da Computação na Estácio.
 
 <p align="left">
     <a href="https://www.youtube.com/@alexmirandaspindolaa?sub_confirmation=1">
